@@ -4,7 +4,7 @@ The Lights out (game) implemented with golang.
 
 > What is Lights out? [wikipdia]("https://en.wikipedia.org/wiki/Lights_Out_(game)")
 
-![demo1]("./public/go-lightsout-demo.gif")
+![demo1](./public/go-lightsout-demo.gif)
 
 ## Install
 
@@ -34,4 +34,4 @@ Default width and height are setted 4.
 go-lightsout -h 8 -w 8
 ```
 
-![demo2]("./public/go-lightsout-demo2.gif")
+![demo2](./public/go-lightsout-demo2.gif)
